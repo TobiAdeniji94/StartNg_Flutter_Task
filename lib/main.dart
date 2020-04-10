@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
           children: <Widget>[
             Container(
 
-              padding: EdgeInsets.fromLTRB(100.0,90.0,0.0,0.0),
+              padding: EdgeInsets.fromLTRB(40.0,90.0,0.0,0.0),
               child: Text('Name: Adeniji Ifeoluwatobi',
               style: TextStyle(
                 fontWeight: FontWeight.bold,
@@ -33,7 +33,7 @@ class MyApp extends StatelessWidget {
               ),
             ),
             Container(
-              padding: EdgeInsets.fromLTRB(100.0,90.0,0.0,0.0),
+              padding: EdgeInsets.fromLTRB(40.0,90.0,0.0,0.0),
               child: Text('Username: Adeniji_Tobi',
                 style: TextStyle(
                   fontWeight: FontWeight.bold,
@@ -43,7 +43,7 @@ class MyApp extends StatelessWidget {
               ),
             ),
             Container(
-              padding: EdgeInsets.fromLTRB(100.0, 90.0, 0.0, 0.0),
+              padding: EdgeInsets.fromLTRB(40.0, 90.0, 0.0, 0.0),
               child: Text('Email: adenijitobi94@gmail.com',
               style: TextStyle(
                 fontWeight: FontWeight.bold,
@@ -53,7 +53,7 @@ class MyApp extends StatelessWidget {
               ),
             ),
             Container(
-              padding: EdgeInsets.fromLTRB(100.0, 90.0, 0.0, 0.0),
+              padding: EdgeInsets.fromLTRB(40.0, 90.0, 0.0, 0.0),
               child: Text('Tracks: Mobile',
                 style: TextStyle(
                   fontWeight: FontWeight.bold,
